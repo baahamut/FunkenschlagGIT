@@ -39,7 +39,6 @@ public class Centrale extends Carte {
         this.capacite = capacite;
         this.surchargee = surchargee;
         this.capaciteSurcharge = capacite * 2;
-        Marqueurs = new ArrayList<Marqueur>();
     }
 
     @objid("860a7f83-85b1-4cd8-8ee7-4971d7e05133")
